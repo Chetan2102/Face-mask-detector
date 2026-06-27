@@ -6,4 +6,3 @@ This project implements a Face Mask Detection system using a Convolutional Neura
 With Mask 
 Without Mask 
 
-The application is deployed using Streamlit, allowing users to upload an image and receive an instant prediction.
